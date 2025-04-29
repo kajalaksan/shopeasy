@@ -12,5 +12,5 @@ console.log(`Server is running on port ${PORT}` );
 
 })
 
-module.exports={app,server}
+module.exports={app,server,name}
 
